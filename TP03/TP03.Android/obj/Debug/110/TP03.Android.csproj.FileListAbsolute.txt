@@ -1,0 +1,5 @@
+C:\Users\micha\Desktop\TP03\TP03\TP03.Android\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+C:\Users\micha\Desktop\TP03\TP03\TP03.Android\obj\Debug\110\build.props
+C:\Users\micha\Desktop\TP03\TP03\TP03.Android\obj\Debug\110\adb.props
+C:\Users\micha\Desktop\TP03\TP03\TP03.Android\obj\Debug\110\TP03.Android.dll
+C:\Users\micha\Desktop\TP03\TP03\TP03.Android\obj\Debug\110\TP03.Android.pdb
